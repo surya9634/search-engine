@@ -1,0 +1,5 @@
+PyQtWebEngine
+PyQt5
+beautifulsoup4
+pyttsx3
+qtwidgets
